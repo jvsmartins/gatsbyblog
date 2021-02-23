@@ -17,6 +17,15 @@ const IndexPage = () => (
       title="Diga sim ao Medium: tenha sua própria plataforma"
       description="Algumas razões para você ter sua própria plataforma ao invés de soluções como o Medium"
     />
+    <PostItem
+      slug="/"
+      background="red"
+      category="JS"
+      date="22 de Fevereiro de 2021"
+      timeToRead="5"
+      title="Teste de titulo para post do Gatsby"
+      description="Algumas razões para você ter sua própria plataforma ao invés de soluções como o Medium"
+    />
   </Layout>
 )
 
